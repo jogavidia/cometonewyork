@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cometonewyork/static/css/main.2cce8147.chunk.css",
+    "main.js": "/cometonewyork/static/js/main.bdad56c5.chunk.js",
+    "main.js.map": "/cometonewyork/static/js/main.bdad56c5.chunk.js.map",
+    "runtime~main.js": "/cometonewyork/static/js/runtime~main.337cd8fe.js",
+    "runtime~main.js.map": "/cometonewyork/static/js/runtime~main.337cd8fe.js.map",
+    "static/js/2.b41502e9.chunk.js": "/cometonewyork/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/cometonewyork/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/cometonewyork/index.html",
+    "precache-manifest.b879e791aa10ee4f72ee7f8078783515.js": "/cometonewyork/precache-manifest.b879e791aa10ee4f72ee7f8078783515.js",
+    "service-worker.js": "/cometonewyork/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/cometonewyork/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/cometonewyork/static/media/logo.5d5d9eef.svg"
+  }
+}
