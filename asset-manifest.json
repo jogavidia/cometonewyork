@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/cometonewyork/static/css/main.3d26d404.chunk.css",
-    "main.js": "/cometonewyork/static/js/main.dd2a1eb1.chunk.js",
-    "main.js.map": "/cometonewyork/static/js/main.dd2a1eb1.chunk.js.map",
+    "main.css": "/cometonewyork/static/css/main.463063c9.chunk.css",
+    "main.js": "/cometonewyork/static/js/main.07525033.chunk.js",
+    "main.js.map": "/cometonewyork/static/js/main.07525033.chunk.js.map",
     "runtime~main.js": "/cometonewyork/static/js/runtime~main.337cd8fe.js",
     "runtime~main.js.map": "/cometonewyork/static/js/runtime~main.337cd8fe.js.map",
-    "static/js/2.e13fee17.chunk.js": "/cometonewyork/static/js/2.e13fee17.chunk.js",
-    "static/js/2.e13fee17.chunk.js.map": "/cometonewyork/static/js/2.e13fee17.chunk.js.map",
+    "static/js/2.ccf58254.chunk.js": "/cometonewyork/static/js/2.ccf58254.chunk.js",
+    "static/js/2.ccf58254.chunk.js.map": "/cometonewyork/static/js/2.ccf58254.chunk.js.map",
     "index.html": "/cometonewyork/index.html",
-    "precache-manifest.e383f31e379bc349bcd0b4bb96f684da.js": "/cometonewyork/precache-manifest.e383f31e379bc349bcd0b4bb96f684da.js",
+    "precache-manifest.291ff10dc83e0828ff3bc6dafed6aaaf.js": "/cometonewyork/precache-manifest.291ff10dc83e0828ff3bc6dafed6aaaf.js",
     "service-worker.js": "/cometonewyork/service-worker.js",
-    "static/css/main.3d26d404.chunk.css.map": "/cometonewyork/static/css/main.3d26d404.chunk.css.map"
+    "static/css/main.463063c9.chunk.css.map": "/cometonewyork/static/css/main.463063c9.chunk.css.map",
+    "static/media/logo.svg": "/cometonewyork/static/media/logo.5f35f3d1.svg"
   }
 }
