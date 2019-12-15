@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/cometonewyork/static/css/main.3e4abb88.chunk.css",
-    "main.js": "/cometonewyork/static/js/main.8b2085e1.chunk.js",
-    "main.js.map": "/cometonewyork/static/js/main.8b2085e1.chunk.js.map",
-    "runtime~main.js": "/cometonewyork/static/js/runtime~main.337cd8fe.js",
-    "runtime~main.js.map": "/cometonewyork/static/js/runtime~main.337cd8fe.js.map",
-    "static/js/2.6cffe0a0.chunk.js": "/cometonewyork/static/js/2.6cffe0a0.chunk.js",
-    "static/js/2.6cffe0a0.chunk.js.map": "/cometonewyork/static/js/2.6cffe0a0.chunk.js.map",
+    "main.css": "/cometonewyork/static/css/main.4ff23711.chunk.css",
+    "main.js": "/cometonewyork/static/js/main.2e654819.chunk.js",
+    "main.js.map": "/cometonewyork/static/js/main.2e654819.chunk.js.map",
+    "runtime-main.js": "/cometonewyork/static/js/runtime-main.a8176c47.js",
+    "runtime-main.js.map": "/cometonewyork/static/js/runtime-main.a8176c47.js.map",
+    "static/js/2.5de51090.chunk.js": "/cometonewyork/static/js/2.5de51090.chunk.js",
+    "static/js/2.5de51090.chunk.js.map": "/cometonewyork/static/js/2.5de51090.chunk.js.map",
     "index.html": "/cometonewyork/index.html",
-    "precache-manifest.7b81e7f57263080d64fced28a9d7de45.js": "/cometonewyork/precache-manifest.7b81e7f57263080d64fced28a9d7de45.js",
+    "precache-manifest.2caf41f8dc9a51c666a5aec7425d5a33.js": "/cometonewyork/precache-manifest.2caf41f8dc9a51c666a5aec7425d5a33.js",
     "service-worker.js": "/cometonewyork/service-worker.js",
-    "static/css/main.3e4abb88.chunk.css.map": "/cometonewyork/static/css/main.3e4abb88.chunk.css.map",
+    "static/css/main.4ff23711.chunk.css.map": "/cometonewyork/static/css/main.4ff23711.chunk.css.map",
+    "static/js/2.5de51090.chunk.js.LICENSE": "/cometonewyork/static/js/2.5de51090.chunk.js.LICENSE",
     "static/media/hamburger-icon.svg": "/cometonewyork/static/media/hamburger-icon.77f4a603.svg",
-    "static/media/home-banner.jpg": "/cometonewyork/static/media/home-banner.1a0fe048.jpg",
+    "static/media/image_one.jpg": "/cometonewyork/static/media/image_one.1d7aa30b.jpg",
+    "static/media/image_three.jpg": "/cometonewyork/static/media/image_three.a660abf8.jpg",
+    "static/media/image_two.jpg": "/cometonewyork/static/media/image_two.5986d52d.jpg",
     "static/media/logo.svg": "/cometonewyork/static/media/logo.d27b6531.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8176c47.js",
+    "static/js/2.5de51090.chunk.js",
+    "static/css/main.4ff23711.chunk.css",
+    "static/js/main.2e654819.chunk.js"
+  ]
 }
