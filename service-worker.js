@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cometonewyork/precache-manifest.2caf41f8dc9a51c666a5aec7425d5a33.js"
+  "/cometonewyork/precache-manifest.f271626c1225929e684b8e12a30e43c9.js"
 );
 
 self.addEventListener('message', (event) => {
