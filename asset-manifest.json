@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cometonewyork/static/css/main.3315b4bd.chunk.css",
-    "main.js": "/cometonewyork/static/js/main.ab3273e7.chunk.js",
-    "main.js.map": "/cometonewyork/static/js/main.ab3273e7.chunk.js.map",
+    "main.js": "/cometonewyork/static/js/main.724e7bae.chunk.js",
+    "main.js.map": "/cometonewyork/static/js/main.724e7bae.chunk.js.map",
     "runtime-main.js": "/cometonewyork/static/js/runtime-main.a8176c47.js",
     "runtime-main.js.map": "/cometonewyork/static/js/runtime-main.a8176c47.js.map",
     "static/js/2.0cebebcb.chunk.js": "/cometonewyork/static/js/2.0cebebcb.chunk.js",
     "static/js/2.0cebebcb.chunk.js.map": "/cometonewyork/static/js/2.0cebebcb.chunk.js.map",
     "index.html": "/cometonewyork/index.html",
-    "precache-manifest.afadb39fdee61dc8a0cc1b2fc1321e0f.js": "/cometonewyork/precache-manifest.afadb39fdee61dc8a0cc1b2fc1321e0f.js",
+    "precache-manifest.8623e8044cb7f05fd65a0bcbbc2853b0.js": "/cometonewyork/precache-manifest.8623e8044cb7f05fd65a0bcbbc2853b0.js",
     "service-worker.js": "/cometonewyork/service-worker.js",
     "static/css/main.3315b4bd.chunk.css.map": "/cometonewyork/static/css/main.3315b4bd.chunk.css.map",
     "static/js/2.0cebebcb.chunk.js.LICENSE": "/cometonewyork/static/js/2.0cebebcb.chunk.js.LICENSE",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.a8176c47.js",
     "static/js/2.0cebebcb.chunk.js",
     "static/css/main.3315b4bd.chunk.css",
-    "static/js/main.ab3273e7.chunk.js"
+    "static/js/main.724e7bae.chunk.js"
   ]
 }
