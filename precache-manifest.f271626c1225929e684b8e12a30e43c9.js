@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3da29add0b456cc6df5dcec5d0db23af",
+    "revision": "b4a9cd9b0c748e497a1eb34f40ea6aa6",
     "url": "/cometonewyork/index.html"
   },
   {
-    "revision": "c0c9ed051b4a44009b06",
+    "revision": "9d9506d3ef21aaa4a4e6",
     "url": "/cometonewyork/static/css/main.3315b4bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cometonewyork/static/js/2.de9e39d0.chunk.js.LICENSE"
   },
   {
-    "revision": "c0c9ed051b4a44009b06",
-    "url": "/cometonewyork/static/js/main.85cc3916.chunk.js"
+    "revision": "9d9506d3ef21aaa4a4e6",
+    "url": "/cometonewyork/static/js/main.91a5002c.chunk.js"
   },
   {
     "revision": "27f41512171c219d68df",
